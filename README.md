@@ -7,3 +7,6 @@
 
 # More files:
 Please request by creating an issue
+
+# Source:
+- [Microsoft Windows SDK for Windows 7 and .NET Framework 4 (ISO)](https://www.microsoft.com/en-us/download/details.aspx?id=8442 "Microsoft Windows SDK for Windows 7 and .NET Framework 4 (ISO)") (GRMSDKX_EN_DVD - x64) > Windows Native Code Development > Tools
